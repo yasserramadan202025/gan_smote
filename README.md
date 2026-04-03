@@ -9,4 +9,7 @@ Experimental results show that the best Baseline without oversampling —a Rando
 * The **Baseline** model achieved an excellent overall balance of precision and F1-score.
 * Our **Proposed Hybrid Method** successfully improved **Recall (to 0.7733)** and **ROC-AUC (to 0.9762)** while maintaining a highly comparable PR-AUC. 
 * **Conclusion:** The hybrid oversampling strategy effectively enhances ranking performance and minority-detection rates, making it particularly valuable in real-world scenarios where maximizing recall (catching as many fraudulent transactions as possible) is critical.
-The utilized dataset are avaialable online at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
+The utilized dataset are avaialable online at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## Citation 
+E. A. Aldakheel, A. M. Osman, S. Abbas, Y. Fouad and A. M. Elshewey, "Hybrid Generative Adversarial Network Assisted Oversampling for Credit Card Fraud Detection," in IEEE Access, doi: 10.1109/ACCESS.2026.3680136
